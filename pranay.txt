@@ -1,1 +1,6 @@
 
+<html>
+<body>
+<p> Welcome to Node JS Lab</p>
+</body>
+</html>
